@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Blogdetailcard from "../Components/Blogdetailcard";
+import Blogdetailcard from "../Components/BlogDetailCard";
 import Blogslideranddetail2rowcard from "../Components/Blogslideranddetail2rowcard";
 import GlobalHeader from "../Components/GlobalHeader";
 import FooterSection from "../Components/FooterSection";
