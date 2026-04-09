@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import BlogDetailCard from "../Components/BlogDetailCard";
-import Blogslideranddetail2rowcard from "../components/Blogslideranddetail2rowcard";
+import Blogslideranddetail2rowcard from "../Components/Blogslideranddetail2rowcard";
 import GlobalHeader from "../Components/GlobalHeader";
 import FooterSection from "../Components/FooterSection";
 import { FaArrowUp } from "react-icons/fa6";
