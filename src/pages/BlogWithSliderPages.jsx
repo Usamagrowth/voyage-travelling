@@ -1,4 +1,4 @@
-import Blogwithslidercard from "../components/Blogwithslidercard";
+import Blogwithslidercard from "../Components/Blogwithslidercard";
 import Blogslideranddetail2rowcard from "../Components/Blogslideranddetail2rowcard";
 import GlobalHeader from "../Components/GlobalHeader";
 import FooterSection from "../Components/FooterSection";
