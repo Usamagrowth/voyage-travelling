@@ -39,7 +39,7 @@ const ContactPage = () => {
         <IoLocationSharp className="text-5xl mx-auto mb-4" />
         <h1 className="text-2xl font-bold mb-2">Our Address</h1>
         <p className="text-lg">
-          16A Soun Ajagungbade Ave, New Bodija Estate Ibadan
+          Agbowo UI Ibadan
         </p>
       </div>
     </div>
