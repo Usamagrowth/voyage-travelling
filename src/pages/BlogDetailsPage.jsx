@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import BlogDetailCard from "../Components/BlogDetailCard";
+import Blogdetailcard from "../Components/Blogdetailcard";
 import Blogslideranddetail2rowcard from "../Components/Blogslideranddetail2rowcard";
 import GlobalHeader from "../Components/GlobalHeader";
 import FooterSection from "../Components/FooterSection";
@@ -29,7 +29,7 @@ const BlogDetailsPage = () => {
     <div>
       <GlobalHeader headerTitle="Blog Details" headerLink="Blog Details"/>
     <section className="max-w-screen-xl mx-auto px-4 py-10 lg:p-20 flex flex-col lg:flex-row gap-8 justify-between">
-       <div className="w-full lg:w-2/3"><BlogDetailCard /></div>
+       <div className="w-full lg:w-2/3"><Blogdetailcard /></div>
        <div className="w-full lg:w-1/3"><Blogslideranddetail2rowcard /></div>
     </section>
     <FooterSection />

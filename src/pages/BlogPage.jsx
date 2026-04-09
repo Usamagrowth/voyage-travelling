@@ -1,4 +1,4 @@
-import Blogcards from "../components/Blogcards";
+import Blogcards from "../Components/Blogcards";
 import GlobalHeader from "../Components/GlobalHeader";
 const BlogPage = () => {
   return (
