@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
-import faq from '../assets/faq.png'
 
 const Tourplan = () => {
   const [openIndex, setOpenIndex] = useState(null);

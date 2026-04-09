@@ -8,7 +8,7 @@ const WhyChooseUsSection = () => {
 
     useEffect(() => {
           AOS.init();
-        }, []);
+        }, []);
   return (
     <section className="bg-[#F7F7F7] mt-20 lg:px-8 px-3">
         <div data-aos="zoom-in" data-aos-duration="2000" className="relative lg:mb-[100px] py-20">

@@ -1,6 +1,6 @@
 import { FaArrowRight } from "react-icons/fa6"
 
-const OurDestinationCard = ({destinationImage, destinationTitle, destinationNo}) => {
+const OurDestinationCard = ({destinationImage, destinationTitle}) => {
   return (
     <article className="flex items-end justify-center bg-black/30 bg-blend-overlay bg-cover bg-center h-[400px] w-[100%] rounded-2xl" style={{backgroundImage: `url(${destinationImage})`}}>
       <div className="mb-10 space-y-4 z-10 flex gap-7">

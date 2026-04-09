@@ -5,7 +5,7 @@ import Tourmapping from '../Components/Tourmapping'
 import Reviews from '../Components/Reviews'
 import ClientReview from '../Components/ClientReview'
 import AddReviews from '../Components/AddReviews'
-import olawale from '../assets/Bookingimage/olawale.png'
+import olawale from '../assets/Bookingimage/Olawale.png'
 import GlobalHeader from '../Components/GlobalHeader'
 import FooterSection from '../Components/FooterSection'
 import { FaArrowUp } from 'react-icons/fa6'
@@ -61,7 +61,7 @@ const TourDetailsPage = () => {
         <h2 className="text-3xl sm:text-2xl font-bold">Ghorepani Poon Hill Trek</h2>
         <p className='mt-2 leading-6'>Discover the breathtaking beauty of the Annapurna region with the Ghorepani Poon Hill Trek, one of Nepal’s most popular short treks. This 4–5 day journey takes you through charming mountain villages, lush rhododendron forests, and terraced farmlands, leading to the famous Poon Hill viewpoint (3,210m). </p>
     
-          <p className='mt-4 leading-6'> From the summit, you’ll witness a spectacular sunrise over the Annapurna and Dhaulagiri ranges, painting the snow-capped peaks in shades of gold and pink. Perfect for beginners and experienced trekkers alike, this trek offers a mix of natural beauty, cultural encounters, and panoramic Himalayan views—all within a short timeframe.</p>
+          <p className='mt-4 leading-6'> From the summit, you’ll witness a spectacular sunrise over the Annapurna and Dhaulagiri ranges, painting the snow-capped peaks in shades of gold and pink. Perfect for beginners and experienced trekkers alike, this trek offers a mix of natural beauty, cultural encounters, and panoramic Himalayan views—all within a short timeframe.</p>
 
             <div className='mt-4'>
   <h1 className='text-xl sm:text-2xl md:text-3xl font-bold'>

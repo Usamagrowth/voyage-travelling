@@ -10,7 +10,7 @@ import FeaturedTourCard from "./FeaturedTourCard";
 const FeaturedTourSection = () => {
   useEffect(() => {
           AOS.init();
-        }, []);
+        }, []);
   return (
     <section data-aos="fade-right" data-aos-duration="2000" className="w-full lg:px-8 px-3 mt-20">
         <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6"> 

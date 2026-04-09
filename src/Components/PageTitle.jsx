@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PageTitle = ({tittle}) => {
+const PageTitle = ({title}) => {
   return (
     <div>
         <h1 className='text-7xl font-bold'>{title}</h1>

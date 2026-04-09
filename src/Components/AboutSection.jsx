@@ -13,7 +13,7 @@ const AboutSection = () => {
 
     useEffect(() => {
       AOS.init();
-    }, []);
+    }, []);
   return (
     <section data-aos="zoom-in" data-aos-duration="2000" className="relative lg:mx-8 mx-3 mt-20 pb-20">
         <div className="container">

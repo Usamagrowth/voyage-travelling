@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom'
 
 
 
-export default function TourCard({ location, cardpics, people, days, resorts, button, duration, price, rating }) {
+export default function TourCard({ location, cardpics, people, days, resorts, duration, price, rating }) {
     return(
         
        <section>
