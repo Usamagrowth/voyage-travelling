@@ -98,7 +98,7 @@ const FooterSection = () => {
                     <IoLocationSharp className="text-white text-xl" />
                   </div>
                   <span>
-                    16A Soun Ajagungbade Ave...
+                    Agbowo UI Ibadan ...
                   </span>
                 </li>
 
@@ -106,14 +106,14 @@ const FooterSection = () => {
                   <div className="bg-[#1ca8cb] w-10 h-10 flex items-center justify-center rounded-xl shadow-md">
                     <MdEmail className="text-white text-xl" />
                   </div>
-                  <span>info@appclickmaycohort2025.com</span>
+                  <span>voyagetravelandtour@gmail.com</span>
                 </li>
 
                 <li className="flex items-center gap-3">
                   <div className="bg-[#1ca8cb] w-10 h-10 flex items-center justify-center rounded-xl shadow-md">
                     <FaPhoneAlt className="text-white text-lg" />
                   </div>
-                  <span>+234 81-6379-1552</span>
+                  <span>+234 90-6654-1057</span>
                 </li>
               </ul>
             </div>

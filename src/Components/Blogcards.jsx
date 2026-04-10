@@ -6,10 +6,10 @@ const Blogcards = ({blogimages, blogdetails }) => {
   return (
     <div className="p-4 w-full sm:w-1/2 lg:w-1/3">
       <div className="relative rounded-[24px] bg-white shadow-sm pb-16 overflow-hidden">
-        <div className="h-[240px] sm:h-[260px] w-full overflow-hidden rounded-t-[24px]">
+        <div className="h-[280px] sm:h-[270px] w-full overflow-hidden rounded-t-[24px]">
           <img className="object-cover w-full h-full" src={blogimages} alt="blog images" />
         </div>
-        <div className="absolute inset-x-4 -bottom-10 bg-white/95 backdrop-blur rounded-[24px] p-5 shadow-lg">
+        <div className="absolute inset-x-4 bottom-2 bg-white/95 backdrop-blur rounded-[24px] p-5 shadow-lg z-10">
           <div className="flex flex-col gap-4">
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
               <p className="bg-[#1CA8CB] rounded-xl w-[65px] h-[65px] flex items-center justify-center font-semibold text-xl sm:text-2xl text-white">26<br/>Nov</p>
